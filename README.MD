@@ -1,6 +1,7 @@
 
 # Switch2_lib: Arduino library
 
+** This is a clone of Switch_Lib (O.Goma) **
 Switch2_lib library helps you to handle simple operations on digital pin states:
 
 - Use simple and intuitive functions to switch digital pin states
