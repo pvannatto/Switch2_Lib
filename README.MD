@@ -54,9 +54,10 @@ void loop()
 light.Timer(long on, int unit);
   - on: Desired time
   - unit: Defines the time unit to use
-    - 0 for seconds, 
-    - 1 for minutes, 
-    - 2 for hour
+    - 0 for milliseconds, 
+    - 1 for seconds, 
+    - 2 for minutes, 
+    - 3 for hour
     
     Timer requires initialization using the Start(); See examples section.
 
